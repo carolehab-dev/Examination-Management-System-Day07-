@@ -1,0 +1,66 @@
+Exam for Database finished at 3/6/2026 5:44:06 PM
+Exam for Database finished at 3/6/2026 5:51:58 PM
+=================================
+Subject: Database
+Exam Time: 3/6/2026 6:01:48 PM
+Exam Type: PracticeExam
+---------------------------------
+Question: SQL stands for Structured Query Language?
+Student Answer: True
+Correct: True
+
+Final Grade: 5
+=================================
+
+=================================
+Subject: Database
+Exam Time: 3/6/2026 6:02:00 PM
+Exam Type: PracticeExam
+---------------------------------
+Question: SQL stands for Structured Query Language?
+Student Answer: True
+Correct: True
+
+Question: Which of the following is a DBMS?
+Student Answer: MySQL
+Correct: True
+
+Question: Which of the following are SQL commands?
+Student Answer: SELECT
+Correct: True
+
+Final Grade: 20
+=================================
+
+=================================
+Subject: Database
+Exam Time: 3/6/2026 6:03:42 PM
+Exam Type: FinalExam
+---------------------------------
+Question: SQL stands for Structured Query Language?
+Student Answer: True
+Correct: True
+
+Question: Which of the following is a DBMS?
+Student Answer: HTML
+Correct: False
+
+Question: Which of the following are SQL commands?
+Student Answer: DELETE
+Correct: True
+
+Final Grade: 15
+=================================
+
+=================================
+Subject: Database
+Exam Time: 3/6/2026 6:04:52 PM
+Exam Type: FinalExam
+---------------------------------
+Question: SQL stands for Structured Query Language?
+Student Answer: True
+Correct: True
+
+Final Grade: 5
+=================================
+

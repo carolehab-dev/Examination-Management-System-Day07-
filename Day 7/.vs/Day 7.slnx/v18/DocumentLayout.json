@@ -1,0 +1,304 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CAROL EHAB\\Desktop\\ITI\\C#\\Day 7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DFF381C-E283-4EC6-8A1E-3B5EAB6F7F2C}|Day 7\\Day 7.csproj|c:\\users\\carol ehab\\desktop\\iti\\c#\\day 7\\day 7\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DFF381C-E283-4EC6-8A1E-3B5EAB6F7F2C}|Day 7\\Day 7.csproj|solutionrelative:day 7\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DFF381C-E283-4EC6-8A1E-3B5EAB6F7F2C}|Day 7\\Day 7.csproj|c:\\users\\carol ehab\\desktop\\iti\\c#\\day 7\\day 7\\answerlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DFF381C-E283-4EC6-8A1E-3B5EAB6F7F2C}|Day 7\\Day 7.csproj|solutionrelative:day 7\\answerlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DFF381C-E283-4EC6-8A1E-3B5EAB6F7F2C}|Day 7\\Day 7.csproj|c:\\users\\carol ehab\\desktop\\iti\\c#\\day 7\\day 7\\chooseallquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DFF381C-E283-4EC6-8A1E-3B5EAB6F7F2C}|Day 7\\Day 7.csproj|solutionrelative:day 7\\chooseallquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DFF381C-E283-4EC6-8A1E-3B5EAB6F7F2C}|Day 7\\Day 7.csproj|c:\\users\\carol ehab\\desktop\\iti\\c#\\day 7\\day 7\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DFF381C-E283-4EC6-8A1E-3B5EAB6F7F2C}|Day 7\\Day 7.csproj|solutionrelative:day 7\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DFF381C-E283-4EC6-8A1E-3B5EAB6F7F2C}|Day 7\\Day 7.csproj|c:\\users\\carol ehab\\desktop\\iti\\c#\\day 7\\day 7\\exameventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DFF381C-E283-4EC6-8A1E-3B5EAB6F7F2C}|Day 7\\Day 7.csproj|solutionrelative:day 7\\exameventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DFF381C-E283-4EC6-8A1E-3B5EAB6F7F2C}|Day 7\\Day 7.csproj|c:\\users\\carol ehab\\desktop\\iti\\c#\\day 7\\day 7\\exammode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DFF381C-E283-4EC6-8A1E-3B5EAB6F7F2C}|Day 7\\Day 7.csproj|solutionrelative:day 7\\exammode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DFF381C-E283-4EC6-8A1E-3B5EAB6F7F2C}|Day 7\\Day 7.csproj|c:\\users\\carol ehab\\desktop\\iti\\c#\\day 7\\day 7\\finalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DFF381C-E283-4EC6-8A1E-3B5EAB6F7F2C}|Day 7\\Day 7.csproj|solutionrelative:day 7\\finalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DFF381C-E283-4EC6-8A1E-3B5EAB6F7F2C}|Day 7\\Day 7.csproj|c:\\users\\carol ehab\\desktop\\iti\\c#\\day 7\\day 7\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DFF381C-E283-4EC6-8A1E-3B5EAB6F7F2C}|Day 7\\Day 7.csproj|solutionrelative:day 7\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DFF381C-E283-4EC6-8A1E-3B5EAB6F7F2C}|Day 7\\Day 7.csproj|c:\\users\\carol ehab\\desktop\\iti\\c#\\day 7\\day 7\\truefalsequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DFF381C-E283-4EC6-8A1E-3B5EAB6F7F2C}|Day 7\\Day 7.csproj|solutionrelative:day 7\\truefalsequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DFF381C-E283-4EC6-8A1E-3B5EAB6F7F2C}|Day 7\\Day 7.csproj|c:\\users\\carol ehab\\desktop\\iti\\c#\\day 7\\day 7\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DFF381C-E283-4EC6-8A1E-3B5EAB6F7F2C}|Day 7\\Day 7.csproj|solutionrelative:day 7\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DFF381C-E283-4EC6-8A1E-3B5EAB6F7F2C}|Day 7\\Day 7.csproj|c:\\users\\carol ehab\\desktop\\iti\\c#\\day 7\\day 7\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DFF381C-E283-4EC6-8A1E-3B5EAB6F7F2C}|Day 7\\Day 7.csproj|solutionrelative:day 7\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DFF381C-E283-4EC6-8A1E-3B5EAB6F7F2C}|Day 7\\Day 7.csproj|c:\\users\\carol ehab\\desktop\\iti\\c#\\day 7\\day 7\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DFF381C-E283-4EC6-8A1E-3B5EAB6F7F2C}|Day 7\\Day 7.csproj|solutionrelative:day 7\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DFF381C-E283-4EC6-8A1E-3B5EAB6F7F2C}|Day 7\\Day 7.csproj|c:\\users\\carol ehab\\desktop\\iti\\c#\\day 7\\day 7\\questionlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DFF381C-E283-4EC6-8A1E-3B5EAB6F7F2C}|Day 7\\Day 7.csproj|solutionrelative:day 7\\questionlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DFF381C-E283-4EC6-8A1E-3B5EAB6F7F2C}|Day 7\\Day 7.csproj|c:\\users\\carol ehab\\desktop\\iti\\c#\\day 7\\day 7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DFF381C-E283-4EC6-8A1E-3B5EAB6F7F2C}|Day 7\\Day 7.csproj|solutionrelative:day 7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DFF381C-E283-4EC6-8A1E-3B5EAB6F7F2C}|Day 7\\Day 7.csproj|c:\\users\\carol ehab\\desktop\\iti\\c#\\day 7\\day 7\\practiceexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DFF381C-E283-4EC6-8A1E-3B5EAB6F7F2C}|Day 7\\Day 7.csproj|solutionrelative:day 7\\practiceexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DFF381C-E283-4EC6-8A1E-3B5EAB6F7F2C}|Day 7\\Day 7.csproj|c:\\users\\carol ehab\\desktop\\iti\\c#\\day 7\\day 7\\chooseonequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DFF381C-E283-4EC6-8A1E-3B5EAB6F7F2C}|Day 7\\Day 7.csproj|solutionrelative:day 7\\chooseonequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\CAROL EHAB\\Desktop\\ITI\\C#\\Day 7\\Day 7\\Question.cs",
+              "RelativeDocumentMoniker": "Day 7\\Question.cs",
+              "ToolTip": "C:\\Users\\CAROL EHAB\\Desktop\\ITI\\C#\\Day 7\\Day 7\\Question.cs",
+              "RelativeToolTip": "Day 7\\Question.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAIwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T14:47:03.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FinalExam.cs",
+              "DocumentMoniker": "C:\\Users\\CAROL EHAB\\Desktop\\ITI\\C#\\Day 7\\Day 7\\FinalExam.cs",
+              "RelativeDocumentMoniker": "Day 7\\FinalExam.cs",
+              "ToolTip": "C:\\Users\\CAROL EHAB\\Desktop\\ITI\\C#\\Day 7\\Day 7\\FinalExam.cs",
+              "RelativeToolTip": "Day 7\\FinalExam.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T15:33:26.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExamMode.cs",
+              "DocumentMoniker": "C:\\Users\\CAROL EHAB\\Desktop\\ITI\\C#\\Day 7\\Day 7\\ExamMode.cs",
+              "RelativeDocumentMoniker": "Day 7\\ExamMode.cs",
+              "ToolTip": "C:\\Users\\CAROL EHAB\\Desktop\\ITI\\C#\\Day 7\\Day 7\\ExamMode.cs",
+              "RelativeToolTip": "Day 7\\ExamMode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T14:23:53.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExamEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\CAROL EHAB\\Desktop\\ITI\\C#\\Day 7\\Day 7\\ExamEventArgs.cs",
+              "RelativeDocumentMoniker": "Day 7\\ExamEventArgs.cs",
+              "ToolTip": "C:\\Users\\CAROL EHAB\\Desktop\\ITI\\C#\\Day 7\\Day 7\\ExamEventArgs.cs",
+              "RelativeToolTip": "Day 7\\ExamEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T15:09:12.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "C:\\Users\\CAROL EHAB\\Desktop\\ITI\\C#\\Day 7\\Day 7\\Exam.cs",
+              "RelativeDocumentMoniker": "Day 7\\Exam.cs",
+              "ToolTip": "C:\\Users\\CAROL EHAB\\Desktop\\ITI\\C#\\Day 7\\Day 7\\Exam.cs",
+              "RelativeToolTip": "Day 7\\Exam.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAqwCEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T15:30:32.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChooseAllQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\CAROL EHAB\\Desktop\\ITI\\C#\\Day 7\\Day 7\\ChooseAllQuestion.cs",
+              "RelativeDocumentMoniker": "Day 7\\ChooseAllQuestion.cs",
+              "ToolTip": "C:\\Users\\CAROL EHAB\\Desktop\\ITI\\C#\\Day 7\\Day 7\\ChooseAllQuestion.cs",
+              "RelativeToolTip": "Day 7\\ChooseAllQuestion.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwCwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T15:07:01.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnswerList.cs",
+              "DocumentMoniker": "C:\\Users\\CAROL EHAB\\Desktop\\ITI\\C#\\Day 7\\Day 7\\AnswerList.cs",
+              "RelativeDocumentMoniker": "Day 7\\AnswerList.cs",
+              "ToolTip": "C:\\Users\\CAROL EHAB\\Desktop\\ITI\\C#\\Day 7\\Day 7\\AnswerList.cs",
+              "RelativeToolTip": "Day 7\\AnswerList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T14:33:40.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Answer.cs",
+              "DocumentMoniker": "C:\\Users\\CAROL EHAB\\Desktop\\ITI\\C#\\Day 7\\Day 7\\Answer.cs",
+              "RelativeDocumentMoniker": "Day 7\\Answer.cs",
+              "ToolTip": "C:\\Users\\CAROL EHAB\\Desktop\\ITI\\C#\\Day 7\\Day 7\\Answer.cs",
+              "RelativeToolTip": "Day 7\\Answer.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA7wBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T14:25:01.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TrueFalseQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\CAROL EHAB\\Desktop\\ITI\\C#\\Day 7\\Day 7\\TrueFalseQuestion.cs",
+              "RelativeDocumentMoniker": "Day 7\\TrueFalseQuestion.cs",
+              "ToolTip": "C:\\Users\\CAROL EHAB\\Desktop\\ITI\\C#\\Day 7\\Day 7\\TrueFalseQuestion.cs",
+              "RelativeToolTip": "Day 7\\TrueFalseQuestion.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T14:58:00.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\CAROL EHAB\\Desktop\\ITI\\C#\\Day 7\\Day 7\\Subject.cs",
+              "RelativeDocumentMoniker": "Day 7\\Subject.cs",
+              "ToolTip": "C:\\Users\\CAROL EHAB\\Desktop\\ITI\\C#\\Day 7\\Day 7\\Subject.cs",
+              "RelativeToolTip": "Day 7\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T15:11:14.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\CAROL EHAB\\Desktop\\ITI\\C#\\Day 7\\Day 7\\Student.cs",
+              "RelativeDocumentMoniker": "Day 7\\Student.cs",
+              "ToolTip": "C:\\Users\\CAROL EHAB\\Desktop\\ITI\\C#\\Day 7\\Day 7\\Student.cs",
+              "RelativeToolTip": "Day 7\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T15:10:22.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\CAROL EHAB\\Desktop\\ITI\\C#\\Day 7\\Day 7\\Repository.cs",
+              "RelativeDocumentMoniker": "Day 7\\Repository.cs",
+              "ToolTip": "C:\\Users\\CAROL EHAB\\Desktop\\ITI\\C#\\Day 7\\Day 7\\Repository.cs",
+              "RelativeToolTip": "Day 7\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T15:26:43.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "QuestionList.cs",
+              "DocumentMoniker": "C:\\Users\\CAROL EHAB\\Desktop\\ITI\\C#\\Day 7\\Day 7\\QuestionList.cs",
+              "RelativeDocumentMoniker": "Day 7\\QuestionList.cs",
+              "ToolTip": "C:\\Users\\CAROL EHAB\\Desktop\\ITI\\C#\\Day 7\\Day 7\\QuestionList.cs",
+              "RelativeToolTip": "Day 7\\QuestionList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T15:08:08.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CAROL EHAB\\Desktop\\ITI\\C#\\Day 7\\Day 7\\Program.cs",
+              "RelativeDocumentMoniker": "Day 7\\Program.cs",
+              "ToolTip": "C:\\Users\\CAROL EHAB\\Desktop\\ITI\\C#\\Day 7\\Day 7\\Program.cs",
+              "RelativeToolTip": "Day 7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T13:46:25.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PracticeExam.cs",
+              "DocumentMoniker": "C:\\Users\\CAROL EHAB\\Desktop\\ITI\\C#\\Day 7\\Day 7\\PracticeExam.cs",
+              "RelativeDocumentMoniker": "Day 7\\PracticeExam.cs",
+              "ToolTip": "C:\\Users\\CAROL EHAB\\Desktop\\ITI\\C#\\Day 7\\Day 7\\PracticeExam.cs",
+              "RelativeToolTip": "Day 7\\PracticeExam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T15:32:14.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ChooseOneQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\CAROL EHAB\\Desktop\\ITI\\C#\\Day 7\\Day 7\\ChooseOneQuestion.cs",
+              "RelativeDocumentMoniker": "Day 7\\ChooseOneQuestion.cs",
+              "ToolTip": "C:\\Users\\CAROL EHAB\\Desktop\\ITI\\C#\\Day 7\\Day 7\\ChooseOneQuestion.cs",
+              "RelativeToolTip": "Day 7\\ChooseOneQuestion.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T15:06:20.178Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
